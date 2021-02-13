@@ -17,6 +17,7 @@ public class CCuenta {
      * Constructor d la clase principal
      */
     public CCuenta() {
+        
     }
 
     /**
